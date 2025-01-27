@@ -5,7 +5,7 @@ function About() {
   return (
      <div id="about">
         <h2>About Me</h2>
-        <p>I love to code and learn new things</p>
+        <p>I made this </p>
         <img src={image} alt="I made this"></img>
         </div>
      );
